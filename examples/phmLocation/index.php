@@ -1,5 +1,5 @@
 <?php
-require_once("phpPHM.php"); ?>
+require_once("../phpPHM.php"); ?>
 <!DOCTYPE html>
 <html>
 <head>
